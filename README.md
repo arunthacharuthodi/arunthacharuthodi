@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunthacharuthodi
 - 👀 I’m interested in ...
--   coding
--   innovative projects
+     coding
+     innovative projects
 - 🌱 I’m currently learning ...
 -   lots of stuff
 - 💞️ I’m looking to collaborate on ...
