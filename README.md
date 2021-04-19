@@ -1,10 +1,10 @@
 ## profile
-<span color="blue">
+<span color="blue">dfs<\span>
 Hy. I'm Arun<br>
 Electrical engineering student
 Currently pursuing bachelor's degree.<br>
 passionated in coding
-<\span>
+
 ## linkdin
 
 Visit my Linkedin Profile.    [click Here](https://www.linkedin.com/in/arun-thacharuthodi-161aa5200/)
