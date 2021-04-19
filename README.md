@@ -1,5 +1,5 @@
 ## profile
-<span color="blue">dfs<\span>
+<span color="blue">dfs</span>
 Hy. I'm Arun<br>
 Electrical engineering student
 Currently pursuing bachelor's degree.<br>
