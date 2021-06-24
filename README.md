@@ -1,8 +1,7 @@
 ## profile
 Hy. I'm Arun<br>
 Electrical engineering student
-Currently pursuing bachelor's degree.<br>
-passionated in coding
+Flutter developer
 
 ## linkdin
 
