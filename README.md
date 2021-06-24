@@ -1,6 +1,6 @@
 ## profile
 Hy. I'm Arun<br>
-Electrical engineering student
+Electrical engineering student and
 Flutter developer
 
 ## linkdin
