@@ -14,9 +14,9 @@ Flutter developer
 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" with="20" height="20">](https://www.linkedin.com/in/arun-thacharuthodi-161aa5200/)
 [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" with="20" height="20">](https://www.instagram.com/arun_thacharuthodi_/)
-[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg " with="20" height="20">](https://www.instagram.com/arun_thacharuthodi_/)
-[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" with="20" height="20">](https://www.instagram.com/arun_thacharuthodi_/)
-[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" with="20" height="20">](https://www.instagram.com/arun_thacharuthodi_/)
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg " with="20" height="20">](https://www.facebook.com/public/Arun-Thacharuthodi)
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" with="20" height="20">](https://twitter.com/thacharuthodi)
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" with="20" height="20">](mailto:arunthacharuthodi@gmail.com)
 
 <!--   
   [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
