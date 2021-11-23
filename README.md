@@ -1,6 +1,6 @@
 ## profile
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Arun !
-Electrical engineering student and
+Electrical engineer and
 Flutter developer
 <hr></hr>
 
