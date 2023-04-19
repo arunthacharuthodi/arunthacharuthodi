@@ -1,7 +1,6 @@
 ## profile
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Arun !
-Electrical engineer and
-Flutter developer
+Flutter developer | Freelancer 
 <hr></hr>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="php Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="php Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="npm Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="php Logo" with="50" height="50"/>
